@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Nest.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://spexzee-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ryninfo.my.id)
 
-- 💬 Ask me about **React , JavaScript**
+- 💬 Ask me about **React , JavaScript, PHP, Laravel**
 
 - 📫 How to reach me **reynandamas28@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://dub.sh/spexzee-resume)
+- 📄 Know about my experiences [Resume](https://https://ryninfo.my.id)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
